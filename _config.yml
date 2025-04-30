@@ -4,6 +4,9 @@ github.is_user_page: false
 hide_project_footer: true
 title: Scheuerer.com
 description: 
+favicon: true
+logo: /assets/img/logo.jpg
+color-scheme: auto
 navigation:
   - name: credo
     link: ./credo.html
