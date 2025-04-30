@@ -1,0 +1,25 @@
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
+hide_project_page: true
+github.is_user_page: false
+hide_project_footer: true
+title: Scheuerer.com
+description: 
+navigation:
+  - name: credo
+    link: ./credo.html
+  - name: creio
+    link: ./creio.html
+  - name: creo
+    link: ./creo.html
+  - name: I believe
+    link: ./i_believe.html
+  - name: ich glaube
+    link: ./ich_glaube.html
+  - name: io credo
+    link: ./io_credo.html
+  - name: je crois
+    link: ./je_crois.html
+  - name: wierzę
+    link: ./wierze.html
+  - name: אני מאמין באלוהים
+    link: ./hbrw.html
