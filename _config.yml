@@ -6,6 +6,7 @@ title: Scheuerer.com
 description: 
 favicon: true
 logo: /assets/img/logo.jpg
+textlogo: /assets/img/textlogo.png
 color-scheme: auto
 navigation:
   - name: credo
