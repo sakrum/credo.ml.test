@@ -9,9 +9,9 @@
 
   {% if site.navigation %}
   <h3 class="sidebar-h3"></h3>
-  <ul class="content">
+  <!-- <ul class="content"> --> <a class="content">
   {%- for item in site.navigation %}
-    <li><a href="{{ item.link }}">{{ item.name }}</a>
+    <!--<li>--><a href="{{ item.link }}">{{ item.name }}</a>
         {% if item.sublist %}
         <ul class="sublist">
             {%- for subitem in item.sublist %}
@@ -19,8 +19,8 @@
             {%- endfor %}
         </ul>
         {% endif %}
-    </li>
+    <!-- </li> --><br>
   {%- endfor %}
-  </ul>
+  <!--</ul>--></a>
   {% endif %}
 </div>
