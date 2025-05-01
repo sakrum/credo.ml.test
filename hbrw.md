@@ -2,7 +2,7 @@
 layout: default
 title: אני מאמין באלוהים
 ---
-<div style='text-align: right'><p font-size='150%'>
+<div style='text-align: right'><p style='font-size: 150%'>
 אני מאמין באלוהים, האב הכול יכול, בורא שמיים וארץ,<br>  
 ובישוע המשיח, בנו יחידו, אדוננו,  <br>
 שהורה מרוח הקודש. נולד למרים הבתולה;  <br>
